@@ -1,0 +1,2 @@
+# Satellite processing dependencies are unified in ../backend/requirements.txt
+-r ../backend/requirements.txt

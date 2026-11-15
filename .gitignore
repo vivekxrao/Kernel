@@ -1,0 +1,13 @@
+.env
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+logs/
+data/*.tif
+data/*.tiff
+data/*.geojson
+!data/.gitkeep
